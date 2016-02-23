@@ -1,0 +1,102 @@
+ML Project-3 Logistic Regression
+================================
+Do you wish to use 
+ 1. FFT Feature Extraction 
+ 2. MFCC Feature Extraction
+Please enter your choice (1 or 2):
+ Loading Data from existing FFT Features File 
+ ----------------------------------------
+Do you wish to use 
+ 1. 1000 FFT Features 
+ 2. 20 Best FFT Features
+Please enter your choice (1 or 2):Computing 0 th Fold Data
+Computing 1 th Fold Data
+Computing 2 th Fold Data
+Computing 3 th Fold Data
+Computing 4 th Fold Data
+Computing 5 th Fold Data
+Computing 6 th Fold Data
+Computing 7 th Fold Data
+Computing 8 th Fold Data
+Computing 9 th Fold Data
+Accuracy for 0 th Fold : 63.3333333333
+Confusion Matrix for 0 th Fold: 
+[[ 8  0  1  0  1  0]
+ [ 3  4  0  2  1  0]
+ [ 2  3  4  0  1  0]
+ [ 0  0  0 10  0  0]
+ [ 0  1  1  1  7  0]
+ [ 1  1  0  1  2  5]]
+Accuracy for 1 th Fold : 63.3333333333
+Confusion Matrix for 1 th Fold: 
+[[7 3 0 0 0 0]
+ [2 6 2 0 0 0]
+ [0 4 5 0 0 1]
+ [0 0 1 9 0 0]
+ [0 2 2 0 6 0]
+ [0 4 1 0 0 5]]
+Accuracy for 2 th Fold : 56.6666666667
+Confusion Matrix for 2 th Fold: 
+[[7 1 0 0 0 2]
+ [0 5 1 0 3 1]
+ [1 2 4 0 2 1]
+ [0 0 1 7 2 0]
+ [0 3 1 0 5 1]
+ [1 2 0 1 0 6]]
+Accuracy for 3 th Fold : 61.6666666667
+Confusion Matrix for 3 th Fold: 
+[[8 0 1 0 1 0]
+ [3 5 2 0 0 0]
+ [1 2 3 0 4 0]
+ [1 1 2 6 0 0]
+ [0 0 1 0 9 0]
+ [1 1 1 0 1 6]]
+Accuracy for 4 th Fold : 58.3333333333
+Confusion Matrix for 4 th Fold: 
+[[4 0 6 0 0 0]
+ [0 6 2 0 2 0]
+ [0 2 6 0 1 1]
+ [0 0 4 5 0 1]
+ [0 0 3 1 6 0]
+ [0 0 1 0 1 8]]
+Accuracy for 5 th Fold : 56.6666666667
+Confusion Matrix for 5 th Fold: 
+[[8 0 2 0 0 0]
+ [1 4 2 2 0 1]
+ [1 2 4 3 0 0]
+ [1 0 2 7 0 0]
+ [1 1 3 0 4 1]
+ [3 0 0 0 0 7]]
+Accuracy for 6 th Fold : 63.3333333333
+Confusion Matrix for 6 th Fold: 
+[[7 0 3 0 0 0]
+ [3 6 1 0 0 0]
+ [2 2 5 1 0 0]
+ [1 1 2 6 0 0]
+ [0 2 1 0 7 0]
+ [0 0 2 1 0 7]]
+Accuracy for 7 th Fold : 58.3333333333
+Confusion Matrix for 7 th Fold: 
+[[8 0 1 0 1 0]
+ [0 6 1 0 3 0]
+ [3 1 2 0 3 1]
+ [1 2 0 6 0 1]
+ [1 2 2 0 5 0]
+ [1 0 0 0 1 8]]
+Accuracy for 8 th Fold : 70.0
+Confusion Matrix for 8 th Fold: 
+[[8 0 2 0 0 0]
+ [2 6 2 0 0 0]
+ [3 0 6 0 1 0]
+ [1 0 0 9 0 0]
+ [0 1 2 0 7 0]
+ [1 2 0 0 1 6]]
+Accuracy for 9 th Fold : 61.6666666667
+Confusion Matrix for 9 th Fold: 
+[[8 1 0 0 1 0]
+ [0 7 3 0 0 0]
+ [0 4 3 1 2 0]
+ [0 2 0 8 0 0]
+ [0 5 1 0 4 0]
+ [1 2 0 0 0 7]]
+Average Accuracy for 10 Folds: 61.3333333333
